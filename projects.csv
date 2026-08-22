@@ -1,0 +1,11 @@
+topic_id,title,domain,tech_stack,difficulty,duration
+T001,AI Powered Chatbot for Mental Health Support,Healthcare,"Python NLP Transformers Flask",Intermediate,4 weeks
+T002,Predictive Maintenance Using Machine Learning,Industrial,"Python Scikit-learn XGBoost Pandas",Advanced,6 weeks
+T003,Real Time Object Detection for Autonomous Vehicles,Automotive,"Python TensorFlow OpenCV YOLO",Advanced,8 weeks
+T004,Fraud Detection in Financial Transactions,Finance,"Python PyTorch Scikit-learn Pandas",Intermediate,4 weeks
+T005,Sentiment Analysis on Social Media Data,Social Media,"Python NLP NLTK spaCy",Beginner,3 weeks
+T006,Smart Agriculture Using IoT and AI,Agriculture,"Python IoT TensorFlow Raspberry Pi",Intermediate,6 weeks
+T007,Healthcare Diagnosis with Deep Learning,Healthcare,"Python Deep Learning PyTorch Medical Imaging",Advanced,8 weeks
+T008,Recommendation System for E Commerce,E-Commerce,"Python Recommendation Scikit-learn Django",Intermediate,4 weeks
+T009,Natural Language Processing for Customer Support,Customer Service,"Python NLP Transformers Flask",Beginner,3 weeks
+T010,Energy Consumption Prediction Using Time Series,Energy,"Python Time Series ARIMA Prophet",Intermediate,6 weeks
