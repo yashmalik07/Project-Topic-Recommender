@@ -1,0 +1,6 @@
+student_id,name,interests,skills,experience_level
+S001,Alice,"Healthcare NLP Chatbot","Python NLP Transformers",Intermediate
+S002,Bob,"Finance Prediction ML","Python Scikit-learn Pandas",Advanced
+S003,Charlie,"Automotive Computer Vision AI","Python TensorFlow OpenCV",Advanced
+S004,Diana,"E-Commerce Recommendation Python","Python Django ML",Intermediate
+S005,Eve,"Social Media NLP Sentiment Analysis","Python NLTK Data Analysis",Beginner
